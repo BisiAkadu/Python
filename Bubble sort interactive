@@ -15,3 +15,10 @@ while swapped:
 
 print("\nSorted:")
 print(my_list)
+
+# This describes the method list.sort(), so instead we just use the list.sort() method to sort a list
+# example
+my_list = [8, 10, 6, 2, 4]
+my_list.sort()
+print(my_list)
+ 
