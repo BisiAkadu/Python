@@ -1,0 +1,16 @@
+my_list = []  # Creating an empty list.
+
+for i in range(10):
+    my_list.append(i + 1)
+
+print(my_list)
+my_list.append(11)
+print(my_list)
+
+y_list = []  # Creating an empty list.
+ 
+for i in range(5):
+    y_list.insert(0, i + 1)
+ 
+print(y_list)
+ 
